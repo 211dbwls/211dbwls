@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yujin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <div align=center>  
-  <p>📝 log</p>
+  <p><b>📝 log</b></p>
   <a href="https://codingrecord2209.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FF8800?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
@@ -9,9 +9,10 @@
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>
 </div> 
+<br><br>
 
 <div align=center>    
-  <p>🛠 Tech Stacks</p>
+  <p><b>🛠 Tech Stacks</b></p>
   <div>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -31,9 +32,17 @@
     <img src="https://img.shields.io/badge/amazonaws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   </div>
 </div>  
+<br><br>
 
 <div align=center>    
-  <p>📞 Contact</p>
+  <p><b>📞 Contact</b></p>
+  
+  
+</div>
+<br><br>
+
+
+<div align=center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F211dbwls&count_bg=%23CCC5FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
