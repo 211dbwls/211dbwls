@@ -1,18 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yujin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <div align=center>  
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=211dbwls&theme=default)
-
-</div> 
-<div align="center"> 
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=211dbwls&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=211dbwls&theme=default)
-
-</div> 
-<br><br>
-
-<div align=center>  
   <p><b>📝 log</b></p>
   <a href="https://codingrecord2209.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FF8800?style=for-the-badge&logo=Tistory&logoColor=white">
@@ -61,6 +49,18 @@
     </a>
   </div>
 </div>
+<br><br>
+
+<div align=center>  
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=211dbwls&theme=default)
+
+</div> 
+<div align="center"> 
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=211dbwls&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=211dbwls&theme=default)
+
+</div> 
 <br><br>
 
 
