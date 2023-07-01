@@ -36,8 +36,18 @@
 
 <div align=center>    
   <p><b>📞 Contact</b></p>
-  
-  
+
+  <div>
+    <a href="mailto:211dbwls@naver.com">
+      <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/ujinlee11/">
+      <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://generous-jean-record-211124ing.tistory.com/">
+      <img src="https://img.shields.io/badge/Tistory-FF8800?style=for-the-badge&logo=Tistory&logoColor=white">
+    </a>
+  </div>
 </div>
 <br><br>
 
